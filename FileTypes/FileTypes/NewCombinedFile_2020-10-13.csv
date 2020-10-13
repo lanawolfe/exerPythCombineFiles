@@ -1,0 +1,33 @@
+name,date,height,weight,Source
+Holli Gayle,11/12/1974,170,50,Aunt.csv
+Nina Shae,9/24/1973,150,35,Aunt.csv
+Jack Smith,4/1/2019,185,91,CSVtest.csv
+Jack Black,4/2/2019,183,91,CSVtest.csv
+Brock Bricks,4/10/2019,185,95,CSVtest2.csv
+Jack Brack,6/7/2019,172,91,CSVtest2.csv
+Holli Gayle,11/12/1974,170,50,CSVtest3.csv
+Nina Shae,9/24/1973,150,35,CSVtest3.csv
+nathan daniel,10/31/1973,160,80,uncles.csv
+shawn Michael,11/17/1973,150,80,uncles.csv
+Noah Riley,2002-01-15 00:00:00,180,74,boys.xlsx
+Doanven James,1996-03-11 00:00:00,170,86,boys.xlsx
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest.xlsx
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2.xlsx
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2.xlsx
+Noah Riley,2002-01-15 00:00:00,180,74,EXCELtest3.xlsx
+Doanven James,1996-03-11 00:00:00,170,86,EXCELtest3.xlsx
+sidney jo,2004-03-09 00:00:00,170,58,girls.xlsx
+kim jo,2005-01-10 00:00:00,150,56,girls.xlsx
+Joan Gayle,12/11/1955,170,75,Joan.json
+Jane Smith,09/02/2019,170,75,JSONtest.json
+Jane Jackson,09/03/2019,172,74,JSONtest2.json
+Becky Jackson,04/03/2019,165,70,JSONtest3.json
+Joan Gayle,12/11/1955,170,75,JSONtest4.json
+Peter Parker,09/02/2019,145,35,peter.json
+Matthew Garrett,07/10/1985,195,,Matthew.xml
+stephanie sue,05/08/1989,120,50,stephanie.xml
+John Smith,02/08/2019,180,100,XMLtest.xml
+John Smithe,03/08/2019,185,101,XMLtest2.xml
+Brett Smithe,05/08/2019,179,99,XMLtest3.xml
+Matthew Garrett,07/10/1985,195,,XMLtest4.xml
